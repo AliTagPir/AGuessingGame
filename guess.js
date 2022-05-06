@@ -1,7 +1,7 @@
 'use strict'
 
 
-// guessing game by Magnum Team
+// guessing game by Magnum Team -- the coding revolution
 
 //reading the javascript file readline and executes it 
 const readline = require ("readline");
